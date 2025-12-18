@@ -31,7 +31,7 @@ class DashboardScreen extends StatelessWidget {
                 crossAxisCount: 2,
                 crossAxisSpacing: 12,
                 mainAxisSpacing: 12,
-                childAspectRatio: 1.2,
+                childAspectRatio: 2.4,
                 children: [
                   DashboardCard(
                     title: "Fans",
